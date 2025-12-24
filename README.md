@@ -26,3 +26,5 @@ A real-time, cloud-native trading platform simulating core stock exchange functi
 
 ## 🚀 Architecture Overview
 
+
+Currently working on the main Portfolio Service
